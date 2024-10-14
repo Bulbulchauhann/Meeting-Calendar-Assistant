@@ -14,6 +14,7 @@ Meeting Calendar Assistant is a Java application designed to streamline the sche
 
 - Java
 - Spring Boot
+- Lombok
 - H2 Database
 - JUnit (for testing)
 
